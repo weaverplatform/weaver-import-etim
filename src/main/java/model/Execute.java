@@ -383,7 +383,6 @@ public class Execute {
                 }
                 for(int hf = 0; hf<mcFeatures.size();hf++){
                     try{ //Avoid duplicates(crashing)
-//                        tx.createRelationProperty(new RelationProperty(mcCode, "hasFeature", mcFeatures.get(hf) + "feature"));
                         tx.createPropertyRelation(new RelationProperty(mcCode, "hasFeature", mcFeatures.get(hf) + "feature"),mcDrawingCodes.get(hf),"DrawingCode");
                     }catch(org.neo4j.graphdb.MultipleFoundException mFex3){
                         System.out.println("WTF");
