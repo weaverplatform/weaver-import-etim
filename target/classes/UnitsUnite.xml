@@ -1,0 +1,1299 @@
+<Units>
+    <Unit>
+      <Code>EU000002</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Hectopascal</Description>
+          <Abbreviation>hPa</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000003</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilo-blindvermogen</Description>
+          <Abbreviation>kvar</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000004</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Lumen per Watt</Description>
+          <Abbreviation>lm/W</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000006</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Dots per inch</Description>
+          <Abbreviation>DPI</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000013</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Baud</Description>
+          <Abbreviation>Bd</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000015</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Decibel-microvolt</Description>
+          <Abbreviation>dB&#181;V</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000018</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilovoltamp&#232;re</Description>
+          <Abbreviation>kVA</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000020</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Watt per meter</Description>
+          <Abbreviation>W/m</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000022</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Voltamp&#232;re</Description>
+          <Abbreviation>VA</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000023</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Omwentelingen per minuut</Description>
+          <Abbreviation>opm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000025</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Milliamp&#232;re-uur</Description>
+          <Abbreviation>mAh</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000032</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Microhenry</Description>
+          <Abbreviation>&#181;H</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000038</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Liter per uur</Description>
+          <Abbreviation>l/h</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000041</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilobyte</Description>
+          <Abbreviation>kByte</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000042</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Megabyte</Description>
+          <Abbreviation>MB</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000043</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilobit per seconde</Description>
+          <Abbreviation>kBit/s</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000045</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Liter per minuut</Description>
+          <Abbreviation>l/min</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000050</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Amp&#232;re-uur</Description>
+          <Abbreviation>Ah</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000051</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Inch</Description>
+          <Abbreviation>inch</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000052</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Per minuut</Description>
+          <Abbreviation>1/min</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000053</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilo-ohm</Description>
+          <Abbreviation>kOhm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000054</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Microfarad</Description>
+          <Abbreviation>&#181;F</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000055</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Schakelstroom voor fluorescentielampen</Description>
+          <Abbreviation>AX</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000056</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Nanometer</Description>
+          <Abbreviation>nm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000057</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Impulsconstante</Description>
+          <Abbreviation>Imp/kWh (kvarh)</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU000059</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Watt piek (Wh/d)</Description>
+          <Abbreviation>Wp</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570006</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilogram per kubieke meter</Description>
+          <Abbreviation>kg/m&#179;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570011</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Joule</Description>
+          <Abbreviation>J</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570020</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Newton</Description>
+          <Abbreviation>N</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570028</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Hertz</Description>
+          <Abbreviation>Hz</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570036</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Meter</Description>
+          <Abbreviation>m</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570039</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilogram</Description>
+          <Abbreviation>kg</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570054</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Watt</Description>
+          <Abbreviation>W</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570056</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Druk</Description>
+          <Abbreviation>bar</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570073</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Graden Celsius</Description>
+          <Abbreviation>&#176;C</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570076</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kelvin</Description>
+          <Abbreviation>K</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570079</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Volt</Description>
+          <Abbreviation>V</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570090</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kubieke meter</Description>
+          <Abbreviation>m&#179;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570097</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Vierkante meter</Description>
+          <Abbreviation>m&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570103</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Seconde</Description>
+          <Abbreviation>s</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570104</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Ohm</Description>
+          <Abbreviation>Ohm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570106</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Lux</Description>
+          <Abbreviation>lx</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570108</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Lumen</Description>
+          <Abbreviation>lm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570109</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Candela</Description>
+          <Abbreviation>cd</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570121</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Vierkante centimeter</Description>
+          <Abbreviation>cm&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570126</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Vierkante millimeter</Description>
+          <Abbreviation>mm&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570133</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Watt per vierkante meter Kelvin</Description>
+          <Abbreviation>W/(m&#178;.K)</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570144</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gram per kubieke centimeter</Description>
+          <Abbreviation>g/cm&#179;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570146</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilogram per kubieke decimeter</Description>
+          <Abbreviation>kg/dm&#179;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570169</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Milliseconde</Description>
+          <Abbreviation>ms</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570170</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kiloamp&#232;re</Description>
+          <Abbreviation>kA</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570174</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Milliamp&#232;re</Description>
+          <Abbreviation>mA</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570193</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilovolt</Description>
+          <Abbreviation>kV</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570199</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Milliohm</Description>
+          <Abbreviation>mOhm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570200</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Megaohm</Description>
+          <Abbreviation>MOhm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570223</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gigahertz</Description>
+          <Abbreviation>GHz</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570224</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilohertz</Description>
+          <Abbreviation>kHz</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570225</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Megahertz</Description>
+          <Abbreviation>MHz</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570235</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Watt per vierkante meter</Description>
+          <Abbreviation>W/m&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570245</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Newton meter</Description>
+          <Abbreviation>Nm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570254</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilogram per meter</Description>
+          <Abbreviation>kg/m</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570257</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Candela per vierkante meter</Description>
+          <Abbreviation>cd/m&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570336</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Millibar</Description>
+          <Abbreviation>mbar</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570374</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Watt per meter Kelvin</Description>
+          <Abbreviation>W/(m.K)</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570376</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Meter per seconde</Description>
+          <Abbreviation>m/s</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570378</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kubieke centimeter</Description>
+          <Abbreviation>cm&#179;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570380</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Milliliter</Description>
+          <Abbreviation>ml</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570382</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Percentage</Description>
+          <Abbreviation>%</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570383</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Hoekgraden</Description>
+          <Abbreviation>&#176;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570387</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Aantal schakelingen per uur (Contacts per hour)</Description>
+          <Abbreviation>c/h</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570388</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Aantal schakelingen per minuut (Contacts per minute)</Description>
+          <Abbreviation>c/min</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570399</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Centimeter</Description>
+          <Abbreviation>cm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570401</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Centistokes</Description>
+          <Abbreviation>cSt</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570403</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Liter</Description>
+          <Abbreviation>l</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570408</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gram</Description>
+          <Abbreviation>g</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570410</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Uur</Description>
+          <Abbreviation>h</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570413</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilogram per uur</Description>
+          <Abbreviation>kg/h</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570416</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilopascal</Description>
+          <Abbreviation>kPa</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570418</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilowatt</Description>
+          <Abbreviation>kW</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570419</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilowattuur</Description>
+          <Abbreviation>kWh</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570420</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Pound (lbs)</Description>
+          <Abbreviation>lb</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570422</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Minuut</Description>
+          <Abbreviation>min</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570428</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Pounds per square inch</Description>
+          <Abbreviation>psi</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570438</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Ton</Description>
+          <Abbreviation>t</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570442</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Parts per million</Description>
+          <Abbreviation>ppm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570448</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Millimeter</Description>
+          <Abbreviation>mm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570449</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Liter per seconde</Description>
+          <Abbreviation>l/s</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570451</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kubieke meter per uur</Description>
+          <Abbreviation>m&#179;/h</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570459</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Amp&#232;re</Description>
+          <Abbreviation>A</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570480</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Decibel</Description>
+          <Abbreviation>dB</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570483</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Aantal schakelingen (Contacts)</Description>
+          <Abbreviation>c (contacts)</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570492</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Pascal</Description>
+          <Abbreviation>Pa</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570499</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Micrometer</Description>
+          <Abbreviation>&#181;m</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570502</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bit</Description>
+          <Abbreviation>Bit</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570508</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilonewton</Description>
+          <Abbreviation>kN</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570515</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Millivolt</Description>
+          <Abbreviation>mV</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570542</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Watt per Kelvin</Description>
+          <Abbreviation>W/K</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570547</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gigajoule per jaar</Description>
+          <Abbreviation>GJ/jaar</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570551</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Millimeter per meter Kelvin</Description>
+          <Abbreviation>mm/(m.K)</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570555</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Decibel A gewogen</Description>
+          <Abbreviation>dB(A)</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570785</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gram per kilogram</Description>
+          <Abbreviation>gr/kg</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570825</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilogram per 24 uur</Description>
+          <Abbreviation>kg/24h</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570931</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>kW/(m&#179; per seconde)</Description>
+          <Abbreviation>kW/(m&#179;/s)</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU570942</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Beaufort</Description>
+          <Abbreviation>Bft</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571000</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gigabyte</Description>
+          <Abbreviation>GB</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571001</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Megabit per seconde</Description>
+          <Abbreviation>Mbps</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571002</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gram per vierkante meter</Description>
+          <Abbreviation>g/m&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571003</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Oppervlaktetraagheidsmoment (in cm4)</Description>
+          <Abbreviation>cm4</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571004</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Antennewinst</Description>
+          <Abbreviation>dBi</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571005</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gram per minuut</Description>
+          <Abbreviation>g/min</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571008</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Meter per minuut</Description>
+          <Abbreviation>m/min</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571022</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Millihenry</Description>
+          <Abbreviation>mH</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571023</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Procentuele waarde</Description>
+          <Abbreviation>%/100%</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571026</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Geluidsdrukniveau gerefereerd aan 1 picowatt</Description>
+          <Abbreviation>dB(A) re 1 pW</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571027</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilowattuur per jaar</Description>
+          <Abbreviation>kWh/jaar</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571028</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Airwatt</Description>
+          <Abbreviation>Airwatt</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571030</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Procent per graad Kelvin</Description>
+          <Abbreviation>%/K</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571031</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gangen per inch</Description>
+          <Abbreviation>TPI</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571032</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilonewton per vierkante meter</Description>
+          <Abbreviation>kN/m&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571033</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Zeemijl</Description>
+          <Abbreviation>nmi</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571034</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Decibel gerefereerd aan 1 milliwatt</Description>
+          <Abbreviation>dBm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571035</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Dag</Description>
+          <Abbreviation>Dag</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571036</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Vierkante meter per meter</Description>
+          <Abbreviation>m&#178;/m</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571037</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Vierkante meter per liter</Description>
+          <Abbreviation>m&#178;/l</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571038</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gram per liter</Description>
+          <Abbreviation>g/l</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571039</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kubieke millimeter</Description>
+          <Abbreviation>mm&#179;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571040</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Oppervlaktetraagheidsmoment (in mm4)</Description>
+          <Abbreviation>mm4</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571041</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Meter waterkolom</Description>
+          <Abbreviation>mwk</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571044</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Newton per vierkante millimeter</Description>
+          <Abbreviation>N/mm&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571045</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>% m/md</Description>
+          <Abbreviation>% m/md</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571046</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilogram per vierkante meter</Description>
+          <Abbreviation>kg/m&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571047</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Milligram</Description>
+          <Abbreviation>mg</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571048</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Megapixel</Description>
+          <Abbreviation>MP</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571049</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilojoule per ohm</Description>
+          <Abbreviation>kJ/Ohm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571050</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kubieke meter per seconde</Description>
+          <Abbreviation>m&#179;/s</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571051</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilogram per seconde</Description>
+          <Abbreviation>kg/s</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571052</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Pascal-seconde</Description>
+          <Abbreviation>Pa-s</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571053</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Newton per millimeter</Description>
+          <Abbreviation>N/mm</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571054</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gram per uur</Description>
+          <Abbreviation>g/h</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571057</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Newton per vierkante meter</Description>
+          <Abbreviation>N/m&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571059</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Vierkante meter per uur</Description>
+          <Abbreviation>m&#178;/h</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571061</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Millimeter per meter</Description>
+          <Abbreviation>mm/m</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571064</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kilogram per centimeter per vierkante meter</Description>
+          <Abbreviation>kg/cm/m&#178;</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+    <Unit>
+      <Code>EU571065</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Watt per vierkante meter Kelvin&#178;</Description>
+          <Abbreviation>W/(m&#178;.K&#178;)</Abbreviation>
+        </Translation>
+      </Translations>
+    </Unit>
+  </Units>
+  

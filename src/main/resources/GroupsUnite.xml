@@ -1,0 +1,1355 @@
+<Groups>
+    <Group>
+      <Code>EG000001</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kabels / Leidingen niet geconfectioneerd</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000002</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Installatiebuizen / kabelbeschermbuizen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000003</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Beschermslangsystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000004</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kabeldraagsystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000005</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Ondervloersystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000006</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Installatiekanalen voor wand en plafond</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000007</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bedradingskanalen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000008</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Installatiezuilensystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000009</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Invoersystemen voor kabel / leidingen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000010</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Installatiemateriaal voor kabels en buizen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000011</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Schakelkastsystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000012</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Rijgklemmen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000013</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Installatieschakelaarprogrammas</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000014</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Industri&#235;le contact/steek toepassingen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000015</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Energie-distributiesystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000017</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Laagspannings schakelapparaten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000019</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Relais</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000020</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Veiligheidsschakelaars en zekeringen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000021</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Aarding, bliksem, -en overspanningsbeveiliging</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000022</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Meterborden</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000023</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Verdeelsystemen (incl. installatiekasten)</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000024</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>PLC's</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000026</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Sensoren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000027</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Verlichtingsarmaturen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000028</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Lampen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000029</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Lichtregeling</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000030</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Toebehoren voor verlichting</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000032</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Installatiebus-systemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000033</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Antenne en satelliet techniek</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000034</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Poort- en rolluikaandrijving, pompen en ventilatoren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000035</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Optische en akoestische signaleringsapparaten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000036</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Communicatietechniek / componenten en systemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000037</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Installatiemateriaal data-en telecommunicatie</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000038</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Telecommunicatie-apparatuur/kantoorapparatuur</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000039</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Grote huishoudelijke apparaten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000040</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kleine huishoudelijke apparaten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000041</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Consumentenelektronica</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000043</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Ruimteverwarming</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000044</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Meet- en testapparatuur</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000045</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Telpulstechniek</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000046</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Werkkleding, arbeidsveiligheid</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000047</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Installatie- en verbindingstechniek, isolatiemateriaal</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000048</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Verbindingsmateriaal</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000049</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bevestigingstechniek</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000050</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Handgereedschap</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000051</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Motorisch aangedreven gereedschap en toebehoren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000052</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Gereedschap (persen, knippen en strippen)</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000053</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Batterijen, accus, opladers en aansluitsnoeren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000054</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Alarminstallaties, noodoproep- en meldingssystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000055</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Fotovolta&#239;sche zonne-energie, windenergie</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000056</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Brandbeveiligingssystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000057</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Insteekbare gebouwinstallatiesystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000058</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Connectoren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000059</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Veiligheidsapparaten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000060</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Hulpmateriaal</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000061</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Soldeer- en lastechniek</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG000062</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Modulaire-/opbouw apparaten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010110</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Afteken- en meetgereedschap</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010120</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Handgereedschap</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010140</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Afkortgereedschap</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010150</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Buiggereedschap</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010160</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Draadsnijgereedschap</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010170</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Las- en soldeergereedschap</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010210</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Verbruiksgereedschappen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010220</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Hulpgereedschappen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010320</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Hijsmaterieel</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010330</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Werkmaterieel</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010340</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Verblijfs-/magazijnruimten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010360</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Beschermingsmiddelen (helmen-kleding e.d.)</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG010400</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Beproevingsapparatuur</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG012000</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Producten overige sectoren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG013000</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouwkundige producten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG014000</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Maritieme producten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015110</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Goten/bakken</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015120</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Opslagvaten/ -tanks</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015130</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Afvoerputten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015140</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Filters/afscheiders</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015170</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Luchtbehandeling</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015210</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Warmteopwekkers</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015220</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Warmtewisselaars</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015230</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Koudeopwekkers</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015240</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Luchtinblaas/-afzuigornamenten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015260</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Drukverhoging/-verlaging</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015280</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Onderdelen van warmteopwekkers</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015400</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Verdelers/verzamelaars</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015410</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Verdelers</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015510</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Slangen en -kasten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015520</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Slangkoppelingen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015530</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Buizen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015540</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Fittingen, flenzen en koppelingen voor buizen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015550</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Kanalen, leidingen en slangen rookgas en lucht</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015560</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Hulpstukken voor rookgassen en lucht</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015570</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Compensatoren en expansiestukken</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015580</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Luiken, kappen en diverse</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015610</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Afsluiters/kranen/regelaars</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015620</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Onderdelen van appendages</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015630</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Lucht(regel)kleppen en brandkleppen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015640</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Toebehoren afsluiters en kranen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015710</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Radiatoren/convectoren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015810</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Meet- en regeltoestellen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015820</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Elektrische en pneumatische opnemers</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015830</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Meet-instrumenten (opname/registratie)</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015840</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Opnemende en verwerkende veldapparatuur</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015850</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Signaalverwerkende regelaars</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015870</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Onderdelen voor meet en regeltoestellen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015880</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Onderdelen voor meet en regelinstrumenten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015910</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Afdichtingen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015920</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Keramiek en wielen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG015930</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Technische kunststoffen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG016740</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Communicatie apparatuur</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG016760</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Signaalapparaten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG016840</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Beveiligingsmaterialen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG016910</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Witgoed</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017110</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Opvangtoestellen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017120</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Spoelreservoirs</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017130</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Montageframes voor opvangtoestellen/kranen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017140</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Onderdelen spoelsystemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017210</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Accessoires/garnituren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017550</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Afvoergarnituren en toevoergarnituren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017610</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Sanitairkranen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017620</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Onderdelen van sanitair kranen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017630</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Toebehoren van sanitair kranen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017640</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Sanitaire douches</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017910</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Toebehoren sanitaire toestellen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017920</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Sanitaire scheidingswanden en cabines</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017960</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Meubilair</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG017970</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Constructiesystemen voor sanitaire ruimtes</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG018110</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Thermische isolatie</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG018310</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Geluiddempers</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG018410</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Trillingdempers</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019100</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bevestigingsmaterialen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019110</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019180</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Diverse bevestigingen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019200</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Plastische afwerkingsmaterialen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019410</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Ophang- en bevestigingsband</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019420</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Ophangbeugels</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019440</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Funderingsbeugels</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019460</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Klemmen (profiel)</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019470</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Diverse ophang- en steunmaterialen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019480</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Hang- en sluitwerk</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019490</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Radiatorbevestigingen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019510</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Tegels</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019610</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Dakbedekking</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019710</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Profielen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019720</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Plaatmateriaal</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019730</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Staf-, band-, draadmateriaal</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019740</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Rail (profielen)</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019760</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Doorvoeringen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019800</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Hulpmaterialen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019810</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Schoonmaakmiddelen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019820</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Verven en conserveringsmiddelen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019830</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Olien en vetten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019850</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Pakkingmaterialen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019860</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Las- en soldeermaterialen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019880</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Diverse hulpmiddelen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019890</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Technische gassen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG019910</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Aandrijfriemen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020100</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Afbouwmaterialen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020150</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Bevestigingsmateriaal en gereedschappen (incl. ge- en verbruiksmateriaal)</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020200</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Bouwstaal en profielen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020250</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Chemische producten</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020300</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Dakmaterialen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020350</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Gevelbekleding</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020400</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Hout en plaatmateriaal</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020450</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Infra / GWW</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020500</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Isolatiemateriaal</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020550</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Steen en dakpannen</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020600</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Systeemvloeren</Description>
+        </Translation>
+      </Translations>
+    </Group>
+    <Group>
+      <Code>EG020650</Code>
+      <Translations>
+        <Translation language="nl-NL">
+          <Description>Bouw - Zakgoed</Description>
+        </Translation>
+      </Translations>
+    </Group>
+  </Groups>
+  
