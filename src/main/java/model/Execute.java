@@ -152,7 +152,6 @@ public class Execute {
                 ActualValuesproperties.add(new ValueProperty("Label", Neo4JConstants.WEAVER_LABEL, "Actual_Value"));
                 ActualValuesproperties.add(new ValueProperty(descriptionValues.get(i),"Value", descriptionValues.get(i)));
                 ActualValuesproperties.add(new ValueProperty(descriptionValues.get(i),"Code", codeValues.get(i)));
-                //tx.createIndividual(descriptionValues.get(i) , ActualValuesproperties, new ArrayList<>());
                 tx.createIndividual(codeValues.get(i) + "value", ActualValuesproperties, new ArrayList<>());
 
 
